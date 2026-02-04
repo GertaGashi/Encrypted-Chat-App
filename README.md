@@ -5,7 +5,6 @@ A multi-client encrypted chat application built in Python. Users can send messag
 - Logs all chat messages to a file
 
 
-
 HOW TO RUN
 1. Clone the repository:
    git clone https://github.com/GertaGashi/Encrypted-Chat-App.git
