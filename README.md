@@ -13,6 +13,9 @@ HOW TO RUN
 4. Run a client (in a new terminal):
    python client.py
 5. Enter your name and start chatting!
+
+
+
 REQURIMENTS
 - Python
 - cryptography module 
